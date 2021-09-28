@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.calculator.FXCalculator&apos; to &apos;TaschenrechnerGUI&apos;&#x0D;&#x0A;- Original project: &apos;calculator_calculator&apos;&#x0D;&#x0A;- Original element: &apos;com.example.calculator.FXCalculator&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.calculator.TaschenrechnerGUI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FXCalculator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.calculator{FXCalculator.java[FXCalculator" matchStrategy="1" name="TaschenrechnerGUI" qualified="false" references="true" similarDeclarations="false" stamp="1632792033838" textual="false" version="1.0"/>
+</session>
